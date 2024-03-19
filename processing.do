@@ -8,5 +8,5 @@ cd "C:\Your\New\Directory\Path"
 import excel "SocialMediaData.xlsx", firstrow clear
 
 *3:
-import excel "YOUR_FOLDER'S_FILEPATH_HERE/ECOMSA.xls", sheet("FRED Graph") cellrange(A11:B108) firstrow clear
+import excel "YOUR_FOLDER'S_FILEPATH_HERE/Copy of ECOMSA.xlsx", sheet("FRED Graph") cellrange(A11:B108) firstrow clear
 //this will allow you to access the data from both raw files into STATA
