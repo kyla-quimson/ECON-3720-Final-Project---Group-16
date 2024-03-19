@@ -1,8 +1,6 @@
 /* Group 16, Date Created 03/16/2024 */
 
 *1:
-
-global path "C:/Users/kylaquimson/Desktop/ECON3720" 
 cd "C:\Your\New\Directory\Path"
 //set the downloaded folder as your directory path
 
